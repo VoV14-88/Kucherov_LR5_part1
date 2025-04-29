@@ -15,6 +15,5 @@ int main() {
     int RectangleArea = CalcRectangleArea(NumberA, NumberB);
     // Вывод значения площади
     cout << "Area of Rectangle is " << RectangleArea << endl;
-
     return 0;
 }
